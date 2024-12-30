@@ -33,12 +33,14 @@
 
 ## Полезные ссылки
 
+  - [Отчёт о проделанной работе](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/VARKT_Report.docx)
+
+  - [Презентация проекта](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/Presentation.pptx)
+
   - [Модель ракетоносителя Протон-К с ФГБ "Заря" в KSP]()
   
-  - [Отчет о проделанной работе]()
+  - [Код для автопилота в KSP](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/krpc_autopilot.py)
   
-  - [Код для автопилота в KSP]()
-  
-  - [Код мат. модели и создания графиков]()
+  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/show_data.py)
     
   - [Запись полета на YouTube](https://youtu.be/ManPyMjzc-k)
