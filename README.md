@@ -41,6 +41,6 @@
   
   - [Код для автопилота в KSP](https://github.com/d-asv-b/varkt/blob/main/krpc_autopilot.py)
   
-  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/show_data.py))
+  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/show_data.py)
     
   - [Запись полета на YouTube](https://youtu.be/ManPyMjzc-k)
