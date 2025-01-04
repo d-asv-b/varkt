@@ -33,14 +33,14 @@
 
 ## Полезные ссылки
 
-  - [Отчёт о проделанной работе](https://github.com/d-asv-b/varkt/blob/main/VARKT_Report.docx)
+  - [Отчёт о проделанной работе](https://github.com/d-asv-b/varkt/blob/main/Reports/VARKT_Report.docx)
 
-  - [Презентация проекта](https://github.com/d-asv-b/varkt/blob/main/Presentation.pptx)
+  - [Презентация проекта](https://github.com/d-asv-b/varkt/blob/main/Reports/Presentation.pptx)
 
-  - [Модель ракетоносителя Протон-К с ФГБ "Заря" в KSP](https://github.com/d-asv-b/varkt/blob/main/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD-%D0%9A_%D0%97%D0%B0%D1%80%D1%8F.craft)
+  - [Модель ракетоносителя Протон-К с ФГБ "Заря" в KSP](https://github.com/d-asv-b/varkt/blob/main/KSP_craft/%D0%9F%D1%80%D0%BE%D1%82%D0%BE%D0%BD-%D0%9A_%D0%97%D0%B0%D1%80%D1%8F.craft)
   
-  - [Код для автопилота в KSP](https://github.com/d-asv-b/varkt/blob/main/krpc_autopilot.py)
+  - [Код для автопилота в KSP](https://github.com/d-asv-b/varkt/blob/main/Python/krpc_autopilot.py)
   
-  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/bd200d93a3ff01d2c57f37435df9248e47ec6383/show_data.py)
+  - [Код мат. модели и создания графиков](https://github.com/d-asv-b/varkt/blob/Python/show_data.py)
     
   - [Запись полета на YouTube](https://youtu.be/ManPyMjzc-k)
