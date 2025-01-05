@@ -14,7 +14,7 @@ def main():
     orbit = vessel.orbit
     
     # Готовим файл для записи телеметрии (данных о времени, высоте и скорости)
-    with open('telemetry.csv', 'w', newline='') as csvfile:
+    with open('../Telemetry/telemetry.csv', 'w', newline='') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(['Time (s)', 'Altitude (m)', 'VerticalSpeed (m/s)', 'HorizontalSpeed (m/s)'])
 

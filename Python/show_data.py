@@ -326,7 +326,7 @@ def main():
     #       Чтение телеметрии из симуляции KSP
     # ----------------------------------------------------------------------------
 
-    df = pd.read_csv("telemetry.csv")
+    df = pd.read_csv("../Telemetry/telemetry.csv")
 
     time_ksp            = df.iloc[:, 0].values        # Time
     altitude_ksp        = df.iloc[:, 1].values        # Altitude
