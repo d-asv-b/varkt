@@ -31,6 +31,40 @@
   <img src="https://github.com/user-attachments/assets/bc782c88-ce46-4427-9748-8c315899e2e0" width="250" height="250"/>
 </p>
 
+## Как запустить код
+
+Сначала перейдите в дирикторию `Python`:
+```
+cd ./Python
+```
+
+После этого создайте виртуальное окружение:
+```
+python -m venv ./venv
+```
+
+Затем зайдите в созданной виртуальное окружение с помощью команды:
+Для Windows
+```
+"./venv/Scripts/activate.bat"
+```
+Для Linux
+```
+source ./venv/bin/activate
+```
+
+После чего необходимо установить зависимости:
+```
+pip install -r requirements.txt
+```
+
+После этого вы можете запускать Python скрипты из данного репозитория!
+
+Например, для отображения графиков с приведённой телеметрией, необходимо запустить следующую команду:
+```
+python show_data.py
+```
+
 ## Полезные ссылки
 
   - [Отчёт о проделанной работе](https://github.com/d-asv-b/varkt/blob/main/Reports/VARKT_Report.docx)
